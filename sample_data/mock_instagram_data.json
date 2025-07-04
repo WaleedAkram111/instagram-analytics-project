@@ -1,0 +1,1310 @@
+{
+  "metadata": {
+    "dataset_type": "demo_instagram_analytics",
+    "generated_at": "2025-07-04T14:55:47.383433",
+    "description": "Demonstration dataset for Instagram analytics system",
+    "total_users": 6,
+    "total_posts": 62,
+    "total_likes": 16,
+    "version": "1.0"
+  },
+  "target_user": {
+    "user_id": "target_user_001",
+    "username": "demo_analyzer",
+    "full_name": "Demo User",
+    "follower_count": 5000,
+    "following_count": 500,
+    "is_private": false,
+    "bio": "Analytics enthusiast interested in social media trends"
+  },
+  "users": [
+    {
+      "user_id": "user_001",
+      "username": "foodie_explorer",
+      "full_name": "Sarah Johnson",
+      "follower_count": 45000,
+      "following_count": 1200,
+      "is_private": false,
+      "bio": "Food & Travel Blogger"
+    },
+    {
+      "user_id": "user_002",
+      "username": "tech_insights",
+      "full_name": "Alex Chen",
+      "follower_count": 32000,
+      "following_count": 890,
+      "is_private": false,
+      "bio": "Technology Analyst & Consultant"
+    },
+    {
+      "user_id": "user_003",
+      "username": "fitness_journey",
+      "full_name": "Mike Rodriguez",
+      "follower_count": 28000,
+      "following_count": 650,
+      "is_private": false,
+      "bio": "Personal Trainer & Wellness Coach"
+    },
+    {
+      "user_id": "user_004",
+      "username": "art_creative",
+      "full_name": "Emma Wilson",
+      "follower_count": 19000,
+      "following_count": 420,
+      "is_private": false,
+      "bio": "Digital Artist & Designer"
+    },
+    {
+      "user_id": "user_005",
+      "username": "travel_wanderer",
+      "full_name": "David Kim",
+      "follower_count": 67000,
+      "following_count": 1800,
+      "is_private": false,
+      "bio": "Adventure Photographer"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "post_001_001",
+      "author_user_id": "user_001",
+      "post_url": "https://instagram.com/p/post_001_001",
+      "caption": "Amazing food content! #restaurant #foodie #chef #cooking",
+      "like_count": 147842,
+      "comment_count": 2383,
+      "post_type": "carousel",
+      "hashtags": [
+        "restaurant",
+        "foodie",
+        "chef",
+        "cooking"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-04-29T14:55:47.382436"
+    },
+    {
+      "post_id": "post_001_002",
+      "author_user_id": "user_001",
+      "post_url": "https://instagram.com/p/post_001_002",
+      "caption": "Amazing food content! #restaurant #foodie #delicious",
+      "like_count": 85920,
+      "comment_count": 4435,
+      "post_type": "photo",
+      "hashtags": [
+        "restaurant",
+        "foodie",
+        "delicious"
+      ],
+      "mentions": [],
+      "location": "New York",
+      "post_date": "2025-05-20T14:55:47.382436"
+    },
+    {
+      "post_id": "post_001_003",
+      "author_user_id": "user_001",
+      "post_url": "https://instagram.com/p/post_001_003",
+      "caption": "Amazing food content! #delicious #foodie #food",
+      "like_count": 72024,
+      "comment_count": 1918,
+      "post_type": "carousel",
+      "hashtags": [
+        "delicious",
+        "foodie",
+        "food"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-04-08T14:55:47.382436"
+    },
+    {
+      "post_id": "post_001_004",
+      "author_user_id": "user_001",
+      "post_url": "https://instagram.com/p/post_001_004",
+      "caption": "Amazing food content! #cooking #restaurant #foodie",
+      "like_count": 112642,
+      "comment_count": 4930,
+      "post_type": "photo",
+      "hashtags": [
+        "cooking",
+        "restaurant",
+        "foodie"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-06-29T14:55:47.382436"
+    },
+    {
+      "post_id": "post_001_005",
+      "author_user_id": "user_001",
+      "post_url": "https://instagram.com/p/post_001_005",
+      "caption": "Amazing food content! #cooking #chef #food #delicious #foodie",
+      "like_count": 64637,
+      "comment_count": 3212,
+      "post_type": "carousel",
+      "hashtags": [
+        "cooking",
+        "chef",
+        "food",
+        "delicious",
+        "foodie"
+      ],
+      "mentions": [],
+      "location": "Los Angeles",
+      "post_date": "2025-05-23T14:55:47.382436"
+    },
+    {
+      "post_id": "post_001_006",
+      "author_user_id": "user_001",
+      "post_url": "https://instagram.com/p/post_001_006",
+      "caption": "Amazing food content! #restaurant #delicious #food",
+      "like_count": 142272,
+      "comment_count": 4999,
+      "post_type": "video",
+      "hashtags": [
+        "restaurant",
+        "delicious",
+        "food"
+      ],
+      "mentions": [],
+      "location": "Los Angeles",
+      "post_date": "2025-05-29T14:55:47.382436"
+    },
+    {
+      "post_id": "post_001_007",
+      "author_user_id": "user_001",
+      "post_url": "https://instagram.com/p/post_001_007",
+      "caption": "Amazing food content! #delicious #cooking #foodie #chef #food",
+      "like_count": 18314,
+      "comment_count": 2301,
+      "post_type": "carousel",
+      "hashtags": [
+        "delicious",
+        "cooking",
+        "foodie",
+        "chef",
+        "food"
+      ],
+      "mentions": [],
+      "location": "London",
+      "post_date": "2025-06-29T14:55:47.382436"
+    },
+    {
+      "post_id": "post_001_008",
+      "author_user_id": "user_001",
+      "post_url": "https://instagram.com/p/post_001_008",
+      "caption": "Amazing food content! #restaurant #food #foodie #delicious #chef",
+      "like_count": 82657,
+      "comment_count": 3453,
+      "post_type": "carousel",
+      "hashtags": [
+        "restaurant",
+        "food",
+        "foodie",
+        "delicious",
+        "chef"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-05-28T14:55:47.382436"
+    },
+    {
+      "post_id": "post_001_009",
+      "author_user_id": "user_001",
+      "post_url": "https://instagram.com/p/post_001_009",
+      "caption": "Amazing food content! #delicious #food #cooking #foodie",
+      "like_count": 125048,
+      "comment_count": 3019,
+      "post_type": "photo",
+      "hashtags": [
+        "delicious",
+        "food",
+        "cooking",
+        "foodie"
+      ],
+      "mentions": [],
+      "location": "New York",
+      "post_date": "2025-04-29T14:55:47.382436"
+    },
+    {
+      "post_id": "post_001_010",
+      "author_user_id": "user_001",
+      "post_url": "https://instagram.com/p/post_001_010",
+      "caption": "Amazing food content! #cooking #chef #foodie #delicious #restaurant",
+      "like_count": 93392,
+      "comment_count": 1469,
+      "post_type": "video",
+      "hashtags": [
+        "cooking",
+        "chef",
+        "foodie",
+        "delicious",
+        "restaurant"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-05-15T14:55:47.382436"
+    },
+    {
+      "post_id": "post_001_011",
+      "author_user_id": "user_001",
+      "post_url": "https://instagram.com/p/post_001_011",
+      "caption": "Amazing food content! #delicious #cooking #restaurant",
+      "like_count": 93429,
+      "comment_count": 2096,
+      "post_type": "carousel",
+      "hashtags": [
+        "delicious",
+        "cooking",
+        "restaurant"
+      ],
+      "mentions": [],
+      "location": "Los Angeles",
+      "post_date": "2025-04-11T14:55:47.382436"
+    },
+    {
+      "post_id": "post_001_012",
+      "author_user_id": "user_001",
+      "post_url": "https://instagram.com/p/post_001_012",
+      "caption": "Amazing food content! #food #chef #foodie",
+      "like_count": 109999,
+      "comment_count": 3939,
+      "post_type": "carousel",
+      "hashtags": [
+        "food",
+        "chef",
+        "foodie"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-06-09T14:55:47.382436"
+    },
+    {
+      "post_id": "post_001_013",
+      "author_user_id": "user_001",
+      "post_url": "https://instagram.com/p/post_001_013",
+      "caption": "Amazing food content! #chef #delicious #restaurant",
+      "like_count": 129414,
+      "comment_count": 4560,
+      "post_type": "video",
+      "hashtags": [
+        "chef",
+        "delicious",
+        "restaurant"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-04-27T14:55:47.382436"
+    },
+    {
+      "post_id": "post_002_001",
+      "author_user_id": "user_002",
+      "post_url": "https://instagram.com/p/post_002_001",
+      "caption": "Amazing technology content! #digital #coding #tech",
+      "like_count": 131119,
+      "comment_count": 2548,
+      "post_type": "video",
+      "hashtags": [
+        "digital",
+        "coding",
+        "tech"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-05-16T14:55:47.382436"
+    },
+    {
+      "post_id": "post_002_002",
+      "author_user_id": "user_002",
+      "post_url": "https://instagram.com/p/post_002_002",
+      "caption": "Amazing technology content! #startup #digital #coding #innovation #tech",
+      "like_count": 118479,
+      "comment_count": 961,
+      "post_type": "carousel",
+      "hashtags": [
+        "startup",
+        "digital",
+        "coding",
+        "innovation",
+        "tech"
+      ],
+      "mentions": [],
+      "location": "New York",
+      "post_date": "2025-04-17T14:55:47.382436"
+    },
+    {
+      "post_id": "post_002_003",
+      "author_user_id": "user_002",
+      "post_url": "https://instagram.com/p/post_002_003",
+      "caption": "Amazing technology content! #ai #tech #digital #coding",
+      "like_count": 68995,
+      "comment_count": 3425,
+      "post_type": "carousel",
+      "hashtags": [
+        "ai",
+        "tech",
+        "digital",
+        "coding"
+      ],
+      "mentions": [],
+      "location": "London",
+      "post_date": "2025-06-15T14:55:47.382436"
+    },
+    {
+      "post_id": "post_002_004",
+      "author_user_id": "user_002",
+      "post_url": "https://instagram.com/p/post_002_004",
+      "caption": "Amazing technology content! #coding #innovation #ai #startup #tech",
+      "like_count": 28292,
+      "comment_count": 2740,
+      "post_type": "carousel",
+      "hashtags": [
+        "coding",
+        "innovation",
+        "ai",
+        "startup",
+        "tech"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-04-27T14:55:47.382436"
+    },
+    {
+      "post_id": "post_002_005",
+      "author_user_id": "user_002",
+      "post_url": "https://instagram.com/p/post_002_005",
+      "caption": "Amazing technology content! #ai #tech #coding #digital #innovation",
+      "like_count": 74428,
+      "comment_count": 4346,
+      "post_type": "photo",
+      "hashtags": [
+        "ai",
+        "tech",
+        "coding",
+        "digital",
+        "innovation"
+      ],
+      "mentions": [],
+      "location": "Los Angeles",
+      "post_date": "2025-05-15T14:55:47.382436"
+    },
+    {
+      "post_id": "post_002_006",
+      "author_user_id": "user_002",
+      "post_url": "https://instagram.com/p/post_002_006",
+      "caption": "Amazing technology content! #tech #ai #digital #innovation",
+      "like_count": 107077,
+      "comment_count": 1825,
+      "post_type": "carousel",
+      "hashtags": [
+        "tech",
+        "ai",
+        "digital",
+        "innovation"
+      ],
+      "mentions": [],
+      "location": "London",
+      "post_date": "2025-05-08T14:55:47.382436"
+    },
+    {
+      "post_id": "post_002_007",
+      "author_user_id": "user_002",
+      "post_url": "https://instagram.com/p/post_002_007",
+      "caption": "Amazing technology content! #tech #startup #digital #ai",
+      "like_count": 51186,
+      "comment_count": 4974,
+      "post_type": "carousel",
+      "hashtags": [
+        "tech",
+        "startup",
+        "digital",
+        "ai"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-05-06T14:55:47.382436"
+    },
+    {
+      "post_id": "post_002_008",
+      "author_user_id": "user_002",
+      "post_url": "https://instagram.com/p/post_002_008",
+      "caption": "Amazing technology content! #ai #startup #innovation #digital #coding",
+      "like_count": 53075,
+      "comment_count": 2042,
+      "post_type": "carousel",
+      "hashtags": [
+        "ai",
+        "startup",
+        "innovation",
+        "digital",
+        "coding"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-05-10T14:55:47.382436"
+    },
+    {
+      "post_id": "post_002_009",
+      "author_user_id": "user_002",
+      "post_url": "https://instagram.com/p/post_002_009",
+      "caption": "Amazing technology content! #innovation #ai #startup #coding",
+      "like_count": 148092,
+      "comment_count": 3639,
+      "post_type": "video",
+      "hashtags": [
+        "innovation",
+        "ai",
+        "startup",
+        "coding"
+      ],
+      "mentions": [],
+      "location": "London",
+      "post_date": "2025-06-24T14:55:47.382436"
+    },
+    {
+      "post_id": "post_002_010",
+      "author_user_id": "user_002",
+      "post_url": "https://instagram.com/p/post_002_010",
+      "caption": "Amazing technology content! #digital #startup #ai #innovation #tech",
+      "like_count": 34290,
+      "comment_count": 4988,
+      "post_type": "photo",
+      "hashtags": [
+        "digital",
+        "startup",
+        "ai",
+        "innovation",
+        "tech"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-05-08T14:55:47.382436"
+    },
+    {
+      "post_id": "post_003_001",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_001",
+      "caption": "Amazing fitness content! #fitness #health #wellness #workout #gym",
+      "like_count": 67809,
+      "comment_count": 2275,
+      "post_type": "video",
+      "hashtags": [
+        "fitness",
+        "health",
+        "wellness",
+        "workout",
+        "gym"
+      ],
+      "mentions": [],
+      "location": "London",
+      "post_date": "2025-05-02T14:55:47.382436"
+    },
+    {
+      "post_id": "post_003_002",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_002",
+      "caption": "Amazing fitness content! #workout #fitness #health",
+      "like_count": 119946,
+      "comment_count": 1591,
+      "post_type": "photo",
+      "hashtags": [
+        "workout",
+        "fitness",
+        "health"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-06-11T14:55:47.382436"
+    },
+    {
+      "post_id": "post_003_003",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_003",
+      "caption": "Amazing fitness content! #training #fitness #wellness #workout",
+      "like_count": 145619,
+      "comment_count": 2155,
+      "post_type": "video",
+      "hashtags": [
+        "training",
+        "fitness",
+        "wellness",
+        "workout"
+      ],
+      "mentions": [],
+      "location": "London",
+      "post_date": "2025-07-01T14:55:47.382436"
+    },
+    {
+      "post_id": "post_003_004",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_004",
+      "caption": "Amazing fitness content! #health #training #gym",
+      "like_count": 130164,
+      "comment_count": 1900,
+      "post_type": "photo",
+      "hashtags": [
+        "health",
+        "training",
+        "gym"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-06-02T14:55:47.382436"
+    },
+    {
+      "post_id": "post_003_005",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_005",
+      "caption": "Amazing fitness content! #gym #workout #training",
+      "like_count": 50472,
+      "comment_count": 3238,
+      "post_type": "photo",
+      "hashtags": [
+        "gym",
+        "workout",
+        "training"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-05-14T14:55:47.382436"
+    },
+    {
+      "post_id": "post_003_006",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_006",
+      "caption": "Amazing fitness content! #wellness #training #health #gym",
+      "like_count": 80969,
+      "comment_count": 1373,
+      "post_type": "photo",
+      "hashtags": [
+        "wellness",
+        "training",
+        "health",
+        "gym"
+      ],
+      "mentions": [],
+      "location": "New York",
+      "post_date": "2025-04-29T14:55:47.382436"
+    },
+    {
+      "post_id": "post_003_007",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_007",
+      "caption": "Amazing fitness content! #health #gym #workout #wellness",
+      "like_count": 90942,
+      "comment_count": 4563,
+      "post_type": "video",
+      "hashtags": [
+        "health",
+        "gym",
+        "workout",
+        "wellness"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-05-12T14:55:47.382436"
+    },
+    {
+      "post_id": "post_003_008",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_008",
+      "caption": "Amazing fitness content! #gym #health #workout #wellness",
+      "like_count": 26567,
+      "comment_count": 2499,
+      "post_type": "photo",
+      "hashtags": [
+        "gym",
+        "health",
+        "workout",
+        "wellness"
+      ],
+      "mentions": [],
+      "location": "New York",
+      "post_date": "2025-05-28T14:55:47.382436"
+    },
+    {
+      "post_id": "post_003_009",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_009",
+      "caption": "Amazing fitness content! #fitness #workout #health",
+      "like_count": 79033,
+      "comment_count": 2408,
+      "post_type": "photo",
+      "hashtags": [
+        "fitness",
+        "workout",
+        "health"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-05-19T14:55:47.383433"
+    },
+    {
+      "post_id": "post_003_010",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_010",
+      "caption": "Amazing fitness content! #gym #workout #wellness #fitness #training",
+      "like_count": 86568,
+      "comment_count": 3822,
+      "post_type": "photo",
+      "hashtags": [
+        "gym",
+        "workout",
+        "wellness",
+        "fitness",
+        "training"
+      ],
+      "mentions": [],
+      "location": "New York",
+      "post_date": "2025-05-09T14:55:47.383433"
+    },
+    {
+      "post_id": "post_003_011",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_011",
+      "caption": "Amazing fitness content! #wellness #fitness #workout",
+      "like_count": 137694,
+      "comment_count": 2258,
+      "post_type": "photo",
+      "hashtags": [
+        "wellness",
+        "fitness",
+        "workout"
+      ],
+      "mentions": [],
+      "location": "London",
+      "post_date": "2025-05-20T14:55:47.383433"
+    },
+    {
+      "post_id": "post_003_012",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_012",
+      "caption": "Amazing fitness content! #training #gym #fitness #health #wellness",
+      "like_count": 101139,
+      "comment_count": 2869,
+      "post_type": "carousel",
+      "hashtags": [
+        "training",
+        "gym",
+        "fitness",
+        "health",
+        "wellness"
+      ],
+      "mentions": [],
+      "location": "London",
+      "post_date": "2025-05-06T14:55:47.383433"
+    },
+    {
+      "post_id": "post_003_013",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_013",
+      "caption": "Amazing fitness content! #health #wellness #workout #fitness #gym",
+      "like_count": 115121,
+      "comment_count": 4418,
+      "post_type": "video",
+      "hashtags": [
+        "health",
+        "wellness",
+        "workout",
+        "fitness",
+        "gym"
+      ],
+      "mentions": [],
+      "location": "London",
+      "post_date": "2025-04-19T14:55:47.383433"
+    },
+    {
+      "post_id": "post_003_014",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_014",
+      "caption": "Amazing fitness content! #fitness #gym #health",
+      "like_count": 90905,
+      "comment_count": 1885,
+      "post_type": "carousel",
+      "hashtags": [
+        "fitness",
+        "gym",
+        "health"
+      ],
+      "mentions": [],
+      "location": "London",
+      "post_date": "2025-05-17T14:55:47.383433"
+    },
+    {
+      "post_id": "post_003_015",
+      "author_user_id": "user_003",
+      "post_url": "https://instagram.com/p/post_003_015",
+      "caption": "Amazing fitness content! #workout #training #health",
+      "like_count": 114201,
+      "comment_count": 3819,
+      "post_type": "video",
+      "hashtags": [
+        "workout",
+        "training",
+        "health"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-06-22T14:55:47.383433"
+    },
+    {
+      "post_id": "post_004_001",
+      "author_user_id": "user_004",
+      "post_url": "https://instagram.com/p/post_004_001",
+      "caption": "Amazing art content! #design #artist #aesthetic",
+      "like_count": 120496,
+      "comment_count": 1075,
+      "post_type": "photo",
+      "hashtags": [
+        "design",
+        "artist",
+        "aesthetic"
+      ],
+      "mentions": [],
+      "location": "London",
+      "post_date": "2025-05-28T14:55:47.383433"
+    },
+    {
+      "post_id": "post_004_002",
+      "author_user_id": "user_004",
+      "post_url": "https://instagram.com/p/post_004_002",
+      "caption": "Amazing art content! #aesthetic #photography #creative",
+      "like_count": 91724,
+      "comment_count": 2557,
+      "post_type": "video",
+      "hashtags": [
+        "aesthetic",
+        "photography",
+        "creative"
+      ],
+      "mentions": [],
+      "location": "New York",
+      "post_date": "2025-05-21T14:55:47.383433"
+    },
+    {
+      "post_id": "post_004_003",
+      "author_user_id": "user_004",
+      "post_url": "https://instagram.com/p/post_004_003",
+      "caption": "Amazing art content! #artist #design #creative #aesthetic #photography",
+      "like_count": 43500,
+      "comment_count": 2651,
+      "post_type": "photo",
+      "hashtags": [
+        "artist",
+        "design",
+        "creative",
+        "aesthetic",
+        "photography"
+      ],
+      "mentions": [],
+      "location": "Los Angeles",
+      "post_date": "2025-06-30T14:55:47.383433"
+    },
+    {
+      "post_id": "post_004_004",
+      "author_user_id": "user_004",
+      "post_url": "https://instagram.com/p/post_004_004",
+      "caption": "Amazing art content! #art #photography #aesthetic #creative",
+      "like_count": 110093,
+      "comment_count": 4885,
+      "post_type": "video",
+      "hashtags": [
+        "art",
+        "photography",
+        "aesthetic",
+        "creative"
+      ],
+      "mentions": [],
+      "location": "London",
+      "post_date": "2025-06-26T14:55:47.383433"
+    },
+    {
+      "post_id": "post_004_005",
+      "author_user_id": "user_004",
+      "post_url": "https://instagram.com/p/post_004_005",
+      "caption": "Amazing art content! #design #creative #artist #art #photography",
+      "like_count": 98002,
+      "comment_count": 666,
+      "post_type": "photo",
+      "hashtags": [
+        "design",
+        "creative",
+        "artist",
+        "art",
+        "photography"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-05-13T14:55:47.383433"
+    },
+    {
+      "post_id": "post_004_006",
+      "author_user_id": "user_004",
+      "post_url": "https://instagram.com/p/post_004_006",
+      "caption": "Amazing art content! #aesthetic #artist #design",
+      "like_count": 84136,
+      "comment_count": 557,
+      "post_type": "photo",
+      "hashtags": [
+        "aesthetic",
+        "artist",
+        "design"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-04-23T14:55:47.383433"
+    },
+    {
+      "post_id": "post_004_007",
+      "author_user_id": "user_004",
+      "post_url": "https://instagram.com/p/post_004_007",
+      "caption": "Amazing art content! #creative #aesthetic #photography #design",
+      "like_count": 60531,
+      "comment_count": 974,
+      "post_type": "carousel",
+      "hashtags": [
+        "creative",
+        "aesthetic",
+        "photography",
+        "design"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-06-26T14:55:47.383433"
+    },
+    {
+      "post_id": "post_004_008",
+      "author_user_id": "user_004",
+      "post_url": "https://instagram.com/p/post_004_008",
+      "caption": "Amazing art content! #art #aesthetic #artist #creative",
+      "like_count": 97032,
+      "comment_count": 4866,
+      "post_type": "carousel",
+      "hashtags": [
+        "art",
+        "aesthetic",
+        "artist",
+        "creative"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-04-12T14:55:47.383433"
+    },
+    {
+      "post_id": "post_004_009",
+      "author_user_id": "user_004",
+      "post_url": "https://instagram.com/p/post_004_009",
+      "caption": "Amazing art content! #art #artist #aesthetic",
+      "like_count": 53322,
+      "comment_count": 2997,
+      "post_type": "carousel",
+      "hashtags": [
+        "art",
+        "artist",
+        "aesthetic"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-05-06T14:55:47.383433"
+    },
+    {
+      "post_id": "post_004_010",
+      "author_user_id": "user_004",
+      "post_url": "https://instagram.com/p/post_004_010",
+      "caption": "Amazing art content! #design #creative #artist #photography",
+      "like_count": 98254,
+      "comment_count": 2424,
+      "post_type": "photo",
+      "hashtags": [
+        "design",
+        "creative",
+        "artist",
+        "photography"
+      ],
+      "mentions": [],
+      "location": "New York",
+      "post_date": "2025-04-10T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_001",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_001",
+      "caption": "Amazing travel content! #adventure #journey #wanderlust #vacation",
+      "like_count": 22871,
+      "comment_count": 2790,
+      "post_type": "photo",
+      "hashtags": [
+        "adventure",
+        "journey",
+        "wanderlust",
+        "vacation"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-05-12T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_002",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_002",
+      "caption": "Amazing travel content! #explore #journey #adventure",
+      "like_count": 86669,
+      "comment_count": 4259,
+      "post_type": "carousel",
+      "hashtags": [
+        "explore",
+        "journey",
+        "adventure"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-06-14T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_003",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_003",
+      "caption": "Amazing travel content! #wanderlust #journey #explore #adventure #travel",
+      "like_count": 47856,
+      "comment_count": 1784,
+      "post_type": "carousel",
+      "hashtags": [
+        "wanderlust",
+        "journey",
+        "explore",
+        "adventure",
+        "travel"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-05-07T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_004",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_004",
+      "caption": "Amazing travel content! #explore #wanderlust #adventure #vacation",
+      "like_count": 32613,
+      "comment_count": 2283,
+      "post_type": "video",
+      "hashtags": [
+        "explore",
+        "wanderlust",
+        "adventure",
+        "vacation"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-04-17T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_005",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_005",
+      "caption": "Amazing travel content! #vacation #wanderlust #adventure #journey #travel",
+      "like_count": 53983,
+      "comment_count": 2416,
+      "post_type": "photo",
+      "hashtags": [
+        "vacation",
+        "wanderlust",
+        "adventure",
+        "journey",
+        "travel"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-05-31T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_006",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_006",
+      "caption": "Amazing travel content! #wanderlust #travel #journey",
+      "like_count": 89359,
+      "comment_count": 1221,
+      "post_type": "carousel",
+      "hashtags": [
+        "wanderlust",
+        "travel",
+        "journey"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-04-25T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_007",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_007",
+      "caption": "Amazing travel content! #travel #journey #adventure",
+      "like_count": 96622,
+      "comment_count": 4296,
+      "post_type": "video",
+      "hashtags": [
+        "travel",
+        "journey",
+        "adventure"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-04-26T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_008",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_008",
+      "caption": "Amazing travel content! #wanderlust #travel #journey #explore",
+      "like_count": 110535,
+      "comment_count": 3768,
+      "post_type": "carousel",
+      "hashtags": [
+        "wanderlust",
+        "travel",
+        "journey",
+        "explore"
+      ],
+      "mentions": [],
+      "location": "London",
+      "post_date": "2025-05-14T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_009",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_009",
+      "caption": "Amazing travel content! #adventure #vacation #travel #explore #journey",
+      "like_count": 142320,
+      "comment_count": 1284,
+      "post_type": "photo",
+      "hashtags": [
+        "adventure",
+        "vacation",
+        "travel",
+        "explore",
+        "journey"
+      ],
+      "mentions": [],
+      "location": "",
+      "post_date": "2025-05-03T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_010",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_010",
+      "caption": "Amazing travel content! #journey #explore #adventure",
+      "like_count": 57832,
+      "comment_count": 3363,
+      "post_type": "photo",
+      "hashtags": [
+        "journey",
+        "explore",
+        "adventure"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-06-21T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_011",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_011",
+      "caption": "Amazing travel content! #vacation #travel #journey",
+      "like_count": 105563,
+      "comment_count": 2699,
+      "post_type": "photo",
+      "hashtags": [
+        "vacation",
+        "travel",
+        "journey"
+      ],
+      "mentions": [],
+      "location": "New York",
+      "post_date": "2025-05-06T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_012",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_012",
+      "caption": "Amazing travel content! #wanderlust #vacation #travel",
+      "like_count": 107078,
+      "comment_count": 4158,
+      "post_type": "photo",
+      "hashtags": [
+        "wanderlust",
+        "vacation",
+        "travel"
+      ],
+      "mentions": [],
+      "location": "New York",
+      "post_date": "2025-04-16T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_013",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_013",
+      "caption": "Amazing travel content! #travel #journey #adventure #explore #wanderlust",
+      "like_count": 117314,
+      "comment_count": 4264,
+      "post_type": "carousel",
+      "hashtags": [
+        "travel",
+        "journey",
+        "adventure",
+        "explore",
+        "wanderlust"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-04-30T14:55:47.383433"
+    },
+    {
+      "post_id": "post_005_014",
+      "author_user_id": "user_005",
+      "post_url": "https://instagram.com/p/post_005_014",
+      "caption": "Amazing travel content! #explore #journey #travel #vacation #wanderlust",
+      "like_count": 91380,
+      "comment_count": 2521,
+      "post_type": "video",
+      "hashtags": [
+        "explore",
+        "journey",
+        "travel",
+        "vacation",
+        "wanderlust"
+      ],
+      "mentions": [],
+      "location": "Tokyo",
+      "post_date": "2025-05-07T14:55:47.383433"
+    }
+  ],
+  "likes": [
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_001_004",
+      "like_timestamp": "2025-06-30T05:55:47.382436",
+      "network_depth": 3,
+      "post_category": "food",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_001_010",
+      "like_timestamp": "2025-06-29T20:55:47.382436",
+      "network_depth": 1,
+      "post_category": "food",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_001_011",
+      "like_timestamp": "2025-06-29T00:55:47.382436",
+      "network_depth": 1,
+      "post_category": "food",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_001_013",
+      "like_timestamp": "2025-07-01T04:55:47.382436",
+      "network_depth": 1,
+      "post_category": "food",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_002_003",
+      "like_timestamp": "2025-07-02T16:55:47.382436",
+      "network_depth": 3,
+      "post_category": "technology",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_002_006",
+      "like_timestamp": "2025-06-30T02:55:47.382436",
+      "network_depth": 3,
+      "post_category": "technology",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_003_008",
+      "like_timestamp": "2025-07-02T15:55:47.383433",
+      "network_depth": 1,
+      "post_category": "fitness",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_003_011",
+      "like_timestamp": "2025-06-30T02:55:47.383433",
+      "network_depth": 2,
+      "post_category": "fitness",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_003_012",
+      "like_timestamp": "2025-06-30T10:55:47.383433",
+      "network_depth": 2,
+      "post_category": "fitness",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_003_015",
+      "like_timestamp": "2025-07-03T19:55:47.383433",
+      "network_depth": 1,
+      "post_category": "fitness",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_004_002",
+      "like_timestamp": "2025-07-01T03:55:47.383433",
+      "network_depth": 1,
+      "post_category": "art",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_004_005",
+      "like_timestamp": "2025-06-28T11:55:47.383433",
+      "network_depth": 2,
+      "post_category": "art",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_004_008",
+      "like_timestamp": "2025-06-27T22:55:47.383433",
+      "network_depth": 2,
+      "post_category": "art",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_005_003",
+      "like_timestamp": "2025-07-04T06:55:47.383433",
+      "network_depth": 2,
+      "post_category": "travel",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_005_006",
+      "like_timestamp": "2025-07-02T23:55:47.383433",
+      "network_depth": 3,
+      "post_category": "travel",
+      "discovery_method": "demo_data"
+    },
+    {
+      "target_user_id": "target_user_001",
+      "post_id": "post_005_013",
+      "like_timestamp": "2025-07-03T00:55:47.383433",
+      "network_depth": 1,
+      "post_category": "travel",
+      "discovery_method": "demo_data"
+    }
+  ]
+}
